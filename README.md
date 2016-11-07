@@ -1,2 +1,3 @@
 # hello-world
-hello world guide
+
+Some initial testing with Git and Github.  Getting back into development/scripting and R
